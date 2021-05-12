@@ -1,4 +1,4 @@
-# [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme)
+# [OSCD](https://github.com/kitian616/jekyll-TeXt-theme)
 
 ## Description
 
@@ -8,4 +8,4 @@
 
 ## License
 
-TeXt Theme is [MIT licensed](E).
+OSCD is [MIT licensed](E).
